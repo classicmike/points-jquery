@@ -4,7 +4,7 @@
   "authors": [
     "Michael Tran <mike.the.frontend.developer@gmail.com>"
   ],
-  "description": "",
+  "description": "This plugin relies on Slick to to change inline lists or columnised div content into sliders on mobile/small tablet screens.",
   "keywords": [
     "slick",
     "jquery"
