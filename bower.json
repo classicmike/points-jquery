@@ -1,0 +1,17 @@
+{
+  "name": "points-jquery",
+  "main": "points.js",
+  "authors": [
+    "Michael Tran <mike.the.frontend.developer@gmail.com>"
+  ],
+  "description": "",
+  "keywords": [
+    "slick",
+    "jquery"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "slick-carousel": "^1.6.0"
+  }
+}
